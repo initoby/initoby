@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @initoby
-- 👀 I’m interested in all things Computational Biology, Bioinformatics and Systems Biology
-- 🌱 I’m currently learning new ways of multiple instance learning for sequence data types
-- 💞️ I’m looking to collaborate on all things "omics" with a particular focus on Lung diseases. 
+- 👋 Hi, I’m @inimary
+- 👀 I’m interested in all things Computational Biology, Bioinformatics, Data Science, AI and Machine Learning
+- 🌱 I’m currently working on research using AI tools and natural language processing
+- 💞️ I’m looking to collaborate on all things "big data and AI" with a particular focus on health applications. 
 - 📫 How to reach me @ ittoby@yahoo.com
 
 <!---
